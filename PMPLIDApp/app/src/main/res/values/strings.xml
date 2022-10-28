@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">PMPLID</string>
+    <string name="team_name">Team Name</string>
+    <string name="team_profile">Profile Team</string>
+    <string name="profile_content">Profile Content</string>
+    <string name="team_sosmed">Social Media</string>
+    <string name="sosmed_content">Social Media Content</string>
+    <string name="my_email">neizarkevin31@gmail.com</string>
+    <string name="my_name">Neizar Kevin Nu\'man</string>
+    <string name="about">About</string>
+    <string name="favorite">Favorite</string>
+    <string name="share">Share</string>
+    <string name="logo_team">Logo Team</string>
+</resources>

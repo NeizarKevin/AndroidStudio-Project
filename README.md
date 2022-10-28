@@ -19,5 +19,8 @@ Record Project Belajar Membuat Aplikasi Android untuk Pemula from [Dicoding Indo
 - [x] Display images and information on the detail page
 - [x] Include button favorite and share with implicit intent
 
+## Installation
+Download and install beta version [here](PMPLIDApp/app/release/PMPLID-beta.apk)
+
 ## Author
 * #### Neizar KEvin Nu'man
